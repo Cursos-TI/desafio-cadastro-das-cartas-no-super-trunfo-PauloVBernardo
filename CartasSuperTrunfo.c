@@ -121,6 +121,8 @@ int main() {
      printf("Densidade demográfica: %f hab/km²\n", densidade2);
      printf("PIB per Capta: R$ %f\n", pibcapta2);
 
+     printf("novo cmomit/n");
+
     return 0;
 
 }
