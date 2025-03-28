@@ -2,10 +2,10 @@
 #include <string.h> //necessário pedir para abrir essa biblioteca que possui a função strcspn
 
 // Desafio Super Trunfo - Países
-// Tema 1 - Calculando Densidade Populacional e PIB per Capita
+// Tema 1 - Batalha de Cartas no Super Trunfo
 // Este código inicial serve como base para o desenvolvimento do sistema de cadastro de cartas de cidades.
 // Siga os comentários para implementar cada parte do desafio.
-//Teste Paulo Vitor dos Santos Bernardo - Nivel aventureiro
+//Teste Paulo Vitor dos Santos Bernardo - Nivel mestre
 
 #include <stdio.h>
 #include <string.h> //necessário pedir para abrir essa biblioteca que possui a função strcspn
